@@ -7,8 +7,7 @@
 
 
 - ✍ I'm a student of: [Hanoi Open University](https://hou.edu.vn) (hou).
-- 🌱 Wanna be a cat , no study , no work , just mew mew
-- 🐛 You only live once, but if you do it right, once is enough.
+
 
 
 
